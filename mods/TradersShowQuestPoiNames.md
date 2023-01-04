@@ -28,7 +28,7 @@ ___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust 
 + To install the mod, click , [Here](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/TradersShowQuestPoiNames1.01.zip) open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
   + The folder you extracted should be called `TradersShowQuestPoiNames`, now open that folder, there should be a folder inside named. 
   + Now move that folder to your `Mods` folder in your 7 Days to Die directory, if you do not have one, make one.        
-+ Your directory should now look something like this: Mod folder should be only 1 Folder deep.
++ Your directory should now look something like this: Mod folder should be only 1 Folder deep.   
 ```\7 Days To Die\Mods\TradersShowQuestPoiNames1.01```
 + A Wrong PathWay: 
 ```\7 Days To Die\Mods\ExtraFolder\TradersShowQuestPoiNames1.01\```    
