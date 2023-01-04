@@ -22,7 +22,7 @@ ___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust 
 
 <details>
   <summary>
-    <h3>Installation Instructions</h3>
+    <h3>Downloads/Installation Instructions</h3>
   </summary>
   
 + To install the mod, click , [Here](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/TradersShowQuestPoiNames1.01.zip) open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
