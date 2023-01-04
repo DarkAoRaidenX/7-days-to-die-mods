@@ -1,4 +1,4 @@
-# My 7 Days to Die Mods
+# My Mods
 ![](https://i.imgur.com/LifgePD.jpg)
 
 #
