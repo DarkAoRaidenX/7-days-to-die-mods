@@ -48,4 +48,3 @@
 
 ##
 
-[Back to Mods List](../main/README.md)
