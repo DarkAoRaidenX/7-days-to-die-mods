@@ -28,7 +28,7 @@
     <h3>Contact Info</h3>
   </summary>
   
-  + If you run into any conflicts or need help, you may contact DarkAoRaidenX via discord: [discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
+  + If you run into any conflicts or need help, you may contact DarkAoRaidenX via: [Discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
 
 </details>
 
