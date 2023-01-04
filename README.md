@@ -12,7 +12,7 @@
   + The folder you extracted should be called `TradersShowQuestPoiNames1.01`, now open that folder, there should be a folder inside named. 
   + Now move that folder to your `Mods` folder in your 7 Days to Die directory, if you do not have one, make one.        
 + Your directory should now look something like this: Mod folder should be only 1 Folder deep.
-```\7 Days To Die\Mods\TradersShowQuestPoiNames1.01```
+```\7 Days To Die\Mods\TradersShowQuestPoiNames1.01```   
 + A Wrong PathWay: 
 ```\7 Days To Die\Mods\ExtraFolder\TradersShowQuestPoiNames1.01```    
 
