@@ -40,9 +40,9 @@
   <summary>
     <h3>Mods List</h3>
   </summary>
-  
-Mod
-+ Added Restore Power location name to quests.
+
+Traders Show Quest POI Names 
++ Link
 
 </details>
 
