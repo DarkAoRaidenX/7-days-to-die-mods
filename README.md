@@ -1,20 +1,5 @@
-# DarkAoRaidenX 7 Days to Die Mods
-![](https://staticdelivery.nexusmods.com/mods/1059/images/2462/2462-1665771473-855119277.jpeg)
-
-<details>
-  <summary>
-    <h3>Mod Features/Information</h3>
-  </summary>
-
-*(Disclaimer: Some GIFs/Images may take a bit to load)*   
-
-A20 - Version 1.00
-*Server Side - No need to download any assets.*
-This mod adds the POI names to the title of Quests. So you know where you are going right away without having to back out and talk to the Trader again! 
-
-___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust random applications.___     
-  
-</details>
+# My 7 Days to Die Mods
+![](https://i.imgur.com/LifgePD.jpg)
 
 #
 
@@ -55,25 +40,13 @@ ___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust 
 
 <details>
   <summary>
-    <h3>Updates</h3>
+    <h3>Mods List</h3>
   </summary>
   
-1.01
+Mod
 + Added Restore Power location name to quests.
 
 </details>
 
-
-##
-
-
-<details>
-  <summary>
-    <h3>Wish List</h3>
-  </summary>
-  
-This list is what I want to be able to do.
-+ Looks like have to settle for just the names in the titles for now... because adding images to the accept / decline window like Undead Legacy requires a custom .dll files. Sigh... why can't we have less modding restrictions.
-</details>
 
 ##
