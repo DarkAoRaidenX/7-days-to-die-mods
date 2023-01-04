@@ -41,8 +41,7 @@
     <h3>Mods List</h3>
   </summary>
 
-Traders Show Quest POI Names 
-+ Link
++ [Traders Show Quest POI Names](../../mods/TradersShowQuestPoiNames.md)
 
 </details>
 
