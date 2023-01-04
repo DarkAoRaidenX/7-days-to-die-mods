@@ -41,7 +41,7 @@
     <h3>Mods List</h3>
   </summary>
 
-+ [Traders Show Quest POI Names](../mods/TradersShowQuestPoiNames.md)
++ [Traders Show Quest POI Names](../main/mods/TradersShowQuestPoiNames.md)
 
 </details>
 
