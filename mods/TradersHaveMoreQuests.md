@@ -11,6 +11,7 @@
 *(Disclaimer: Some GIFs/Images may take a bit to load)*   
 
 A20 - Version 1.00
+
 !WARNING - RUNS WITH EAC OFF!
 
 This mod makes it so Traders Have more Quests in their list and also increases the range of possible locations. It increases the distance check to 1500 and 2000 meters. This mod was possible because of Bowa(Bowabb) and the .dll file they created. I thank them for creating it and allowing me to make a modlet out it!
