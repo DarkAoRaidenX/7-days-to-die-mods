@@ -29,7 +29,6 @@ As of right now they are 3 versions 10,15 and 20 Quests. You also can either cho
   <summary>
     <h3>Downloads/Installation Instructions</h3>
   </summary>
-___IMPORTANT: Mods for 7 Days to Die will never come in .exe form, Do not trust random applications.___     
 
 + To install the mod, click , [Here](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/TradersHaveMoreQuests.zip) open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
   + The folder you extracted should be called `TradersShowQuestPoiNames`, now open that folder, there should several folders inside Choose ONLY 1 of them. 
@@ -41,7 +40,7 @@ ___IMPORTANT: Mods for 7 Days to Die will never come in .exe form, Do not trust 
 
 *Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon*
 
-
+___IMPORTANT: Mods for 7 Days to Die will never come in .exe form, Do not trust random applications.___     
 
 </details>
    
