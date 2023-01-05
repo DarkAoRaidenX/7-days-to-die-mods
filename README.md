@@ -5,10 +5,19 @@
 
 <details>
   <summary>
-    <h3>Contact Info</h3>
+    <h3>ABOUT AUTHOR / CONTACT INFO</h3>
   </summary>
   
-  + If you run into any conflicts or need help, you may contact DarkAoRaidenX via: [Discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
++ Started playing 7d2d during Alpha 18
++ Started attempting to mod in Alpha 19
++ First published a mod during Alpha 19
++ Where to find:
+	+ https://darkaoraidenx.github.io/
+	+ https://7daystodiemods.com/
+	+ https://www.nexusmods.com/users/96342523?tab=user+files
+	+ https://www.twitch.tv/DarkAoRaidenX
+
++ If you run into any conflicts or need help, you may contact Me via: [Discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
 
 </details>
 
@@ -18,7 +27,7 @@
 
 <details>
   <summary>
-    <h3>Installation Instructions</h3>
+    <h3>INSTALL INSTRUCTION</h3>
   </summary>
   
 + To install the mod, open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
@@ -37,9 +46,10 @@
 
 <details>
   <summary>
-    <h3>Mods List</h3>
+    <h3>MODS LIST</h3>
   </summary>
 
++ [Traders Have More Quests](../main/mods/TradersHaveMoreQuests.md)
 + [Traders Show Quest POI Names](../main/mods/TradersShowQuestPoiNames.md)
 
 </details>
