@@ -21,7 +21,7 @@ This mod adds the POI names to the title of Quests. So you know where you are go
   <summary>
     <h3>Downloads/Installation Instructions</h3>
   </summary>
-___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust random applications.___     
+___IMPORTANT: Mods for 7 Days to Die SHOULD NOT come in .exe form, Do not trust random applications.___   
   
 + To install the mod, click , [Here](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/TradersShowQuestPoiNames1.01.zip) open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
   + The folder you extracted should be called `TradersShowQuestPoiNames`, now open that folder, there should be a folder inside named. 
