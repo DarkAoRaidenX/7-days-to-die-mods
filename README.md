@@ -17,7 +17,7 @@
 	+ https://www.nexusmods.com/users/96342523?tab=user+files
 	+ https://www.twitch.tv/DarkAoRaidenX
 
-+ If you run into any conflicts or need help, you may contact Me via: [Discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
++ If you run into any conflicts or need help, you may contact Me via: [Discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX.
 
 </details>
 
@@ -51,6 +51,7 @@
 
 + [Traders Have More Quests](../main/mods/TradersHaveMoreQuests.md)
 + [Traders Show Quest POI Names](../main/mods/TradersShowQuestPoiNames.md)
++ [Vehicle/Car Alarm](../main/mods/VehicleCarAlarms.md)
 
 </details>
 
