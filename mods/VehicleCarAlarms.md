@@ -49,7 +49,7 @@ Config>gameevents.xml the Value Number
   </summary>
 
 + To install the mod, click , [A20 Download](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/CarAlarm-A20.zip) or [A21 Download](https://github.com/DarkAoRaidenX/7-days-to-die-mods/raw/main/downloads/VehicleAlarms-A21.2.0.0.zip) open the file you downloaded with an extraction tool such as [7 Zip](https://www.7-zip.org/). 
-  + The folder you extracted should be called or `VehicleAlarms-A21.2.0.0`, now open that folder. 
+  + The folder you extracted should be called `CarAlarm` or `VehicleAlarms-A21.2.0.0`. 
   + Now move that folder to your `Mods` folder in your 7 Days to Die directory, if you do not have one, make one.        
 + Your directory should now look something like this: Mod folder should be only 1 Folder deep.   
 ```\7 Days To Die\Mods\ModFolderName```
@@ -70,7 +70,7 @@ ___IMPORTANT: Mods for 7 Days to Die will never come in .exe form, Do not trust 
     <h3>Contact Info</h3>
   </summary>
   
-  + If you run into any conflicts or need help, you may contact DarkAoRaidenX via discord: [discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX#6672.
+  + If you run into any conflicts or need help, you may contact DarkAoRaidenX via discord: [discord](https://discord.gg/UccyzVm5Xq) or DarkAoRaidenX.
 
 </details>
 
@@ -84,7 +84,6 @@ ___IMPORTANT: Mods for 7 Days to Die will never come in .exe form, Do not trust 
   </summary>
   
 2.00
-+ Version 2
 - Added where there's a chance when the Alarm goes off it will Spawn 4 Zombies. It should scale up with the Gamestage
 So it will spawn Normal,Feral,Radiated *Hopefully* around the right time.
 
@@ -103,7 +102,7 @@ So it will spawn Normal,Feral,Radiated *Hopefully* around the right time.
   </summary>
   
 This list is what I want to be able to do.
-+ For this to be possible with XML only!
++ 
 </details>
 
 ##
