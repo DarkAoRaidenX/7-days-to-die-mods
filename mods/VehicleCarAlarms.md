@@ -1,7 +1,7 @@
 [Back to Mods List](../../main/README.md)
 
 # Vehicle/Car Alarms
-![](https://staticdelivery.nexusmods.com/mods/1059/images/2618/2618-1672388251-1671535222.jpeg)
+![](https://staticdelivery.nexusmods.com/mods/1059/images/headers/3582_1701576394.jpg)
 
 <details>
   <summary>
